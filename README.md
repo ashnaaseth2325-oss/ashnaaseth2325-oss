@@ -7,8 +7,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashnaaseth2325-oss&show_icons=true&theme=tokyonight&hide_border=false" height="170" alt="Ashnaa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnaaseth2325-oss&layout=compact&theme=tokyonight&hide_border=false" height="170" alt="Ashnaa's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashnaaseth2325-oss&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnaaseth2325-oss&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
