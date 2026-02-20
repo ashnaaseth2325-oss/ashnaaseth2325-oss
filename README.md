@@ -1,6 +1,8 @@
 # Hi, I'm Ashnaa Seth 👋
 
-🚀 **Full-Stack Developer** | 🎨 **UI/UX Designer** | 🐍 **Python & JavaScript Enthusiast**
+### 🚀 2nd Sem CS Student | Bengaluru | Full-Stack Developer & UI/UX Designer | 
+
+I'm a passionate developer focused on building clean, student-centric applications. I balance my time between crafting intuitive user experiences and solving complex problems with Python and JavaScript.**UI/UX Designer** | 🐍 **Python & JavaScript Enthusiast** 
 
 ---
 
@@ -36,10 +38,11 @@
 
 ## 🚀 About Me
 
-- 🌐 **Full-Stack Explorer:** Currently building web apps like **FocusFlow** and **Moviefy**.
-- 🎨 **Design Driven:** I focus on creating intuitive UI/UX for all my student-centric projects.
-- 🧠 **Problem Solver:** Deep diving into Data Structures and Algorithms using Python.
+- 🌐 **Full-Stack Explorer:** Currently building web apps like **FocusFlow** and **Typical**.
 - 💻 **Environment:** Powering my workflow with **Ubuntu (WSL)**.
+- 🧠 **Currently Learning:** Advanced Data Structures and Algorithms in Python.
+- 🎨 **Design Philosophy:** I believe great software should be as beautiful as it is functional.
+- Working on - CareLink-Bharat
 
 ---
 
@@ -57,7 +60,7 @@
   <a href="https://github.com/ashnaaseth2325-oss">
     <img src="https://img.shields.io/badge/GitHub-ashnaaseth2325--oss-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/your-profile-link">
+  <a href="[https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/ashnaa-seth-792755369/)">
     <img src="https://img.shields.io/badge/LinkedIn-Ashnaa%20Seth-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
