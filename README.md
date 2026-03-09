@@ -49,7 +49,7 @@ I'm a passionate developer focused on building clean, student-centric applicatio
 ## 💡 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=rust,html,css,js,python,bootstrap,git,github,vscode,linux" />
 </p>
 
 ---
