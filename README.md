@@ -1,6 +1,6 @@
 # Hi, I'm Ashnaa Seth 👋
 
-### 🚀 2nd Sem CS Student | Bengaluru | Full-Stack Developer & UI/UX Designer | 
+### 🚀 3nd Sem CS Student | Bengaluru | Full-Stack Developer & UI/UX Designer | 
 
 I'm a passionate developer focused on building clean, student-centric applications. I balance my time between crafting intuitive user experiences and solving complex problems with Python and JavaScript.**UI/UX Designer** 
 
