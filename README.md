@@ -42,7 +42,7 @@ I'm a passionate developer focused on building clean, student-centric applicatio
 - 💻 **Environment:** Powering my workflow with **Ubuntu (WSL)**.
 - 🧠 **Currently Learning:** Advanced Data Structures and Algorithms in Python.
 - 🎨 **Design Philosophy:** I believe great software should be as beautiful as it is functional.
-- 💫 **Working on** - CareLink-Bharat
+- 💫 **Working on** - LeetXray
 
 ---
 
